@@ -1,0 +1,24 @@
+# ninja log v6
+65	155	7622478625017004	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesGreen.cpp.obj	37b878a5561cc82a
+35	136	7622478624717031	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansWalk.cpp.obj	75e5e03da44d1834
+18	115	7622478624548733	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansEnabled.cpp.obj	45d0a6fada25fdf3
+26	123	7622478624630572	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansFlash.cpp.obj	b3ec58264c246641
+8	137	7622478624448397	CMakeFiles/SYSC3303_Assignment_3.dir/main.cpp.obj	e64bbf1690c8f707
+74	164	7622478625106267	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesGreenInt.cpp.obj	5c8f0f7d092b2eaf
+85	170	7622478625218275	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesYellow.cpp.obj	7a6ac707552ee82
+9	362	7622553436436345	build.ninja	dbb1db4f5b949dbe
+23	420	7622553437472052	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesEnabled.cpp.obj	379009f2dc8a5dd
+11	538	7622553437345601	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansFlash.cpp.obj	b3ec58264c246641
+29	549	7622553437530712	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesGreen.cpp.obj	37b878a5561cc82a
+36	571	7622553437600517	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesGreenInt.cpp.obj	5c8f0f7d092b2eaf
+29	442	7622554187848662	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesEnabled.cpp.obj	379009f2dc8a5dd
+14	572	7622554187696104	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansFlash.cpp.obj	b3ec58264c246641
+44	590	7622554187995442	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesGreenInt.cpp.obj	5c8f0f7d092b2eaf
+36	590	7622554187925291	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesGreen.cpp.obj	37b878a5561cc82a
+7	635	7622556509710924	CMakeFiles/SYSC3303_Assignment_3.dir/main.cpp.obj	e64bbf1690c8f707
+7	505	7622558090540402	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansEnabled.cpp.obj	45d0a6fada25fdf3
+22	547	7622558090696585	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesYellow.cpp.obj	7a6ac707552ee82
+5	548	7622558862991451	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansFlash.cpp.obj	b3ec58264c246641
+13	549	7622558863065046	CMakeFiles/SYSC3303_Assignment_3.dir/PedestriansWalk.cpp.obj	75e5e03da44d1834
+6	342	7622559542780600	CMakeFiles/SYSC3303_Assignment_3.dir/VehiclesEnabled.cpp.obj	379009f2dc8a5dd
+343	516	7622559546147140	SYSC3303_Assignment_3.exe	35239c74c69af9f9
