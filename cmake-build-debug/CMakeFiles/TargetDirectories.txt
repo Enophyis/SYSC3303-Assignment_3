@@ -1,3 +1,3 @@
-C:/Users/atcjw/Documents/skool shit/3303/SYSC3303-Assignment_3/cmake-build-debug/CMakeFiles/SYSC3303_Assignment_3.dir
-C:/Users/atcjw/Documents/skool shit/3303/SYSC3303-Assignment_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/atcjw/Documents/skool shit/3303/SYSC3303-Assignment_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/enophyis/Documents/SYSC3303/SYSC3303-Assignment_3/cmake-build-debug/CMakeFiles/SYSC3303_Assignment_3.dir
+/home/enophyis/Documents/SYSC3303/SYSC3303-Assignment_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enophyis/Documents/SYSC3303/SYSC3303-Assignment_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
